@@ -22,3 +22,6 @@ npm install
 ```
 npm run dev
 ```
+![image](https://github.com/user-attachments/assets/623a0531-9a6a-4b0b-93fd-8c49f7f8a22a)
+![image](https://github.com/user-attachments/assets/09a2d42c-c8d5-45c7-a42b-f2dbb98d18ec)
+
